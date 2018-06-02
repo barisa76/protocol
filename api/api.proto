@@ -322,7 +322,7 @@ service WalletSolidity {
       additional_bindings {
         get: "/walletsolidity/listwitnesses"
       }
-    };
+    };0xe6eac95a98b73af4acd58a08fc7bcea464fab24f
   };
   rpc GetAssetIssueList (EmptyMessage) returns (AssetIssueList) {
     option (google.api.http) = {
